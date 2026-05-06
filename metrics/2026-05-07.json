@@ -1,0 +1,26 @@
+{
+  "date": "2026-05-07",
+  "timestamp": "2026-05-06T22:00:34.105995+00:00",
+  "local_tag": "v2026.4.30",
+  "remote_tag": "v2026.4.30",
+  "prev_tag": "v2026.4.23",
+  "commits_behind": 0,
+  "commits_7d": 808,
+  "open_issues": 100,
+  "pX_open": 5,
+  "days_since_release": 6,
+  "avg_resolution_hours": null,
+  "scores": {
+    "A_freshness": 20,
+    "B_backlog": 17,
+    "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 14,
+    "F_security": 1,
+    "total": 87,
+    "grade": "🟢 优秀",
+    "recommendation": "版本稳定，可直接使用"
+  },
+  "decision": "skip",
+  "target_tag": "v2026.4.30"
+}
