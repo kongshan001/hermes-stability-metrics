@@ -10,7 +10,7 @@
     "F_security": 1
   },
   "latest": {
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "grade": "🔵 良好",
     "total": 75
   },
@@ -485,6 +485,16 @@
     "F_security": 1
   },
   "2026-06-28": {
+    "total": 75,
+    "grade": "🔵 良好",
+    "A_freshness": 2,
+    "B_backlog": 17,
+    "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 12,
+    "F_security": 9
+  },
+  "2026-06-29": {
     "total": 75,
     "grade": "🔵 良好",
     "A_freshness": 2,
