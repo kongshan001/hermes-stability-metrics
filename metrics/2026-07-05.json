@@ -1,0 +1,26 @@
+{
+  "date": "2026-07-05",
+  "timestamp": "2026-07-04T22:01:04.210741+00:00",
+  "local_tag": "v2026.4.30",
+  "remote_tag": "v2026.7.1",
+  "prev_tag": "v2026.6.19",
+  "commits_behind": 7388,
+  "commits_7d": 1221,
+  "open_issues": 100,
+  "pX_open": 0,
+  "days_since_release": 3,
+  "avg_resolution_hours": 2.1,
+  "scores": {
+    "A_freshness": 2,
+    "B_backlog": 17,
+    "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 15,
+    "F_security": 9,
+    "total": 78,
+    "grade": "🔵 良好",
+    "recommendation": "基本稳定，建议升级到最新"
+  },
+  "decision": "upgrade_latest",
+  "target_tag": "v2026.7.1"
+}
