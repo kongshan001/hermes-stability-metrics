@@ -10,9 +10,9 @@
     "F_security": 1
   },
   "latest": {
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "grade": "🟢 优秀",
-    "total": 87
+    "total": 85
   },
   "2026-05-04": {
     "total": 73,
@@ -660,6 +660,16 @@
     "A_freshness": 20,
     "B_backlog": 17,
     "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 14,
+    "F_security": 1
+  },
+  "2026-07-16": {
+    "total": 85,
+    "grade": "🟢 优秀",
+    "A_freshness": 20,
+    "B_backlog": 17,
+    "C_fix_efficiency": 18,
     "D_activity": 15,
     "E_release_timing": 14,
     "F_security": 1
