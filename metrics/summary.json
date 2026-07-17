@@ -10,7 +10,7 @@
     "F_security": 1
   },
   "latest": {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "grade": "🟢 优秀",
     "total": 85
   },
@@ -675,6 +675,16 @@
     "F_security": 1
   },
   "2026-07-17": {
+    "total": 85,
+    "grade": "🟢 优秀",
+    "A_freshness": 20,
+    "B_backlog": 17,
+    "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 12,
+    "F_security": 1
+  },
+  "2026-07-18": {
     "total": 85,
     "grade": "🟢 优秀",
     "A_freshness": 20,
