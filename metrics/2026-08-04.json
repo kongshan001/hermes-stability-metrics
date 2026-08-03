@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-04",
+  "timestamp": "2026-08-03T22:01:10.018554+00:00",
+  "local_tag": "v2026.7.7.2",
+  "remote_tag": "v2026.8.3",
+  "prev_tag": "v2026.7.30",
+  "commits_behind": 5719,
+  "commits_7d": 2140,
+  "open_issues": 100,
+  "pX_open": 1,
+  "days_since_release": 0,
+  "avg_resolution_hours": 4.9,
+  "scores": {
+    "A_freshness": 2,
+    "B_backlog": 17,
+    "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 15,
+    "F_security": 1,
+    "total": 70,
+    "grade": "🔵 良好",
+    "recommendation": "基本稳定，建议升级到最新"
+  },
+  "decision": "skip",
+  "target_tag": "v2026.7.7.2"
+}
