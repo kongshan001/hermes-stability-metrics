@@ -10,7 +10,7 @@
     "F_security": 1
   },
   "latest": {
-    "date": "2026-08-09",
+    "date": "2026-08-10",
     "grade": "🟡 一般",
     "total": 69
   },
@@ -905,6 +905,16 @@
     "F_security": 1
   },
   "2026-08-09": {
+    "total": 69,
+    "grade": "🟡 一般",
+    "A_freshness": 2,
+    "B_backlog": 17,
+    "C_fix_efficiency": 20,
+    "D_activity": 15,
+    "E_release_timing": 14,
+    "F_security": 1
+  },
+  "2026-08-10": {
     "total": 69,
     "grade": "🟡 一般",
     "A_freshness": 2,
